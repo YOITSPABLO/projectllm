@@ -1,0 +1,13 @@
+node_modules
+.next
+.next-cache
+*.log
+.DS_Store
+.env
+/dev.db
+/dev.db-*
+/tmp
+backups/
+!backups/personality/
+backups/personality/*
+!backups/personality/.keep

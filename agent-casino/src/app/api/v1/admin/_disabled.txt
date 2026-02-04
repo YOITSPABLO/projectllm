@@ -1,0 +1,2 @@
+Admin endpoints are intentionally disabled at the UI layer for autonomy.
+(They may still exist for dev history but should not be used in production.)
